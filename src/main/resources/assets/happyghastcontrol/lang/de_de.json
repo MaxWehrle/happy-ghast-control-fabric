@@ -1,0 +1,12 @@
+{
+  "key.category.happyghastcontrol.flight": "Happy-Ghast-Steuerung",
+  "key.happyghastcontrol.descend": "Mit Happy Ghast sinken",
+  "key.happyghastcontrol.menu": "Happy-Ghast-Menü öffnen",
+  "hud.happyghastcontrol.menu_hint": "Drücke %s für die Ghast-Steuerung",
+  "screen.happyghastcontrol.title": "Happy-Ghast-Steuerung",
+  "screen.happyghastcontrol.description": "Festlegen, ob dieser Ghast nach dem Absteigen parkt.",
+  "screen.happyghastcontrol.loading": "Parkeinstellung wird geladen...",
+  "screen.happyghastcontrol.parking_on": "Nach dem Absteigen parken: AN",
+  "screen.happyghastcontrol.parking_off": "Nach dem Absteigen parken: AUS",
+  "screen.happyghastcontrol.done": "Fertig"
+}

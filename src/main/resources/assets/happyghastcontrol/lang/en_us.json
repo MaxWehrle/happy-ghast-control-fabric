@@ -1,0 +1,12 @@
+{
+  "key.category.happyghastcontrol.flight": "Happy Ghast Control",
+  "key.happyghastcontrol.descend": "Descend on Happy Ghast",
+  "key.happyghastcontrol.menu": "Open Happy Ghast menu",
+  "hud.happyghastcontrol.menu_hint": "Press %s for Ghast controls",
+  "screen.happyghastcontrol.title": "Happy Ghast Controls",
+  "screen.happyghastcontrol.description": "Set whether this Ghast parks after dismounting.",
+  "screen.happyghastcontrol.loading": "Loading parking state...",
+  "screen.happyghastcontrol.parking_on": "Park after dismount: ON",
+  "screen.happyghastcontrol.parking_off": "Park after dismount: OFF",
+  "screen.happyghastcontrol.done": "Done"
+}
